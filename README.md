@@ -1,7 +1,7 @@
 # GCP-Projects
 
 ## Training
-Training the Machine Learning Model using Big Qwery ML
+Training the Machine Learning Model using Big Query ML
 
 ``` SQL 
 CREATE OR REPLACE MODEL `ecommerce.classification_model_2`
