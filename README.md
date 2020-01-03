@@ -1,4 +1,4 @@
-# GCP-Projects
+# SQL Code
 
 ## Training
 Training the Machine Learning Model using Big Query ML
